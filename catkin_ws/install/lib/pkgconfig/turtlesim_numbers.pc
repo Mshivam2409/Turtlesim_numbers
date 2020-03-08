@@ -1,0 +1,8 @@
+prefix=/home/diyans/ROS/a4/catkin_ws/install
+
+Name: turtlesim_numbers
+Description: Description of turtlesim_numbers
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/diyans/ROS/a4/catkin_ws/install/lib 
+Requires: 

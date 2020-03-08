@@ -1,0 +1,13 @@
+/home/diyans/ROS/a4/catkin_ws/install/_setup_util.py
+/home/diyans/ROS/a4/catkin_ws/install/env.sh
+/home/diyans/ROS/a4/catkin_ws/install/setup.bash
+/home/diyans/ROS/a4/catkin_ws/install/local_setup.bash
+/home/diyans/ROS/a4/catkin_ws/install/setup.sh
+/home/diyans/ROS/a4/catkin_ws/install/local_setup.sh
+/home/diyans/ROS/a4/catkin_ws/install/setup.zsh
+/home/diyans/ROS/a4/catkin_ws/install/local_setup.zsh
+/home/diyans/ROS/a4/catkin_ws/install/.rosinstall
+/home/diyans/ROS/a4/catkin_ws/install/lib/pkgconfig/turtlesim_numbers.pc
+/home/diyans/ROS/a4/catkin_ws/install/share/turtlesim_numbers/cmake/turtlesim_numbersConfig.cmake
+/home/diyans/ROS/a4/catkin_ws/install/share/turtlesim_numbers/cmake/turtlesim_numbersConfig-version.cmake
+/home/diyans/ROS/a4/catkin_ws/install/share/turtlesim_numbers/package.xml
